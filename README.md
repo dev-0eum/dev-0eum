@@ -4,7 +4,7 @@ https://velog.io/@oka1313/Github-%EA%B9%83%ED%97%88%EB%B8%8C-%ED%94%84%EB%A1%9C%
 https://velog.io/@noyohanx/GIT-%ED%94%84%EB%A1%9C%ED%95%84-%ED%99%94%EB%A9%B4-%EA%BE%B8%EB%AF%B8%EA%B8%B0
 -->
 # Hello! Security Data Engineer JunYeob's Github😎
-### Contact
+### 💡 Contact
 ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
 lifeparadox470@gmail.com
 
@@ -19,7 +19,7 @@ https://url.kr/4gsgc9
 - (2024.06 ~ 2025.12) Network Security, Korea Military Academy 
 
 
-## 👨‍💻 Tech
+## 🛠 Tech
 #### Language
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![]()
 #### Framework
@@ -44,7 +44,7 @@ https://url.kr/4gsgc9
 - (2023.08) SQL Developer, Korea DATA
 - (2023.08) TOEIC Speaking IH 150
 
-### Project
+### 📚 Project
 
 
 
@@ -56,7 +56,8 @@ https://url.kr/4gsgc9
   - DRM System
   - UTM / FireWall
   - Virus Vaccine Program
-- 🌱 I’m currently learning ...
+  
+- 🌱 I’m currently planning to learn ...
   
   ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -64,6 +65,8 @@ https://url.kr/4gsgc9
   ![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
   ![](https://img.shields.io/badge/Airflow-F3F3F3?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
   ![](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+
 
   <!--
 - 👯 I’m looking to collaborate on ...
