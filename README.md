@@ -1,11 +1,16 @@
 <!--
 **dev-0eum/dev-0eum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://velog.io/@oka1313/Github-%EA%B9%83%ED%97%88%EB%B8%8C-%ED%94%84%EB%A1%9C%ED%95%84-%EA%BE%B8%EB%AF%B8%EA%B8%B0
+https://velog.io/@noyohanx/GIT-%ED%94%84%EB%A1%9C%ED%95%84-%ED%99%94%EB%A9%B4-%EA%BE%B8%EB%AF%B8%EA%B8%B0
 -->
 # Hello! Security Data Engineer JunYeob's Github😎
 ### 💾 Brief of me
-- (2018.03 ~ 2021.02) Incheon Posco High School 
-- (2022.03 ~ ) Computer Science Engineering, ChungAng Univ. 
-- (2024.06 ~ 2025.12) Network Security, Korea Military Academy 
+(2018.03 ~ 2021.02) Incheon Posco High School 
+(2022.03 ~ ) Computer Science Engineering, ChungAng Univ. 
+(2022.03 ~ 2023.12) Representative & Student Council of Computer Science Engineering, ChungAng Univ.
+(2022.07 ~ ) College Mentor of Future Dream Center(미래진로센터)
+(2023.01 ~ 02) Instructor of Digital Newbie Camp (sponsored by KAIST)
+(2024.06 ~ 2025.12) Network Security, Korea Military Academy 
 
 
 ## 👨‍💻 Tech
@@ -20,7 +25,7 @@
 
 ### 🏅 Prize
 - (2023.12) ICC Core TON, LINC 3.0 in CAU [Grand prize / 중앙대학교 총장상(대상)]
-- 
+- (2023.08) CCSSAA(CAU CSE alumini Association) 
 
 ### 📜 Certificate
 - (2023.08) SQL Developer, Korea DATA
@@ -32,6 +37,9 @@
 
 
 - 🔭 I’m currently working on ...
+  Network Security in KMA(Korea Military Academy)
+  - NAC
+  - 
 - 🌱 I’m currently learning ...
   
   ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
