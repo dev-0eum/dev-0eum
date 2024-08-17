@@ -32,7 +32,7 @@ https://velog.io/@noyohanx/GIT-%ED%94%84%EB%A1%9C%ED%95%84-%ED%99%94%EB%A9%B4-%E
 
 ### 🏅 Prize
 - (2023.12) ICC Core TON, LINC 3.0 in CAU [Grand prize / 중앙대학교 총장상(대상)]
-- (2023.08) CCSSAA(CAU CSE alumini Association) 3rd Prize
+- (2023.08) CCSSAA(CAU CSE alumini Association) [3rd Prize]
 
 ### 📜 Certificate
 - (2023.08) SQL Developer, Korea DATA
@@ -44,6 +44,7 @@ https://velog.io/@noyohanx/GIT-%ED%94%84%EB%A1%9C%ED%95%84-%ED%99%94%EB%A9%B4-%E
 
 
 - 🔭 I’m currently working on ...
+
   Network Security Operation & Mangement in KMA(Korea Military Academy)
   - NAC
   - PMS Server
@@ -62,12 +63,12 @@ https://velog.io/@noyohanx/GIT-%ED%94%84%EB%A1%9C%ED%95%84-%ED%99%94%EB%A9%B4-%E
   ![](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 - 📫 How to contact me: ...
-  
-![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
-lifeparadox470@gmail.com
+> 
+> ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
+: lifeparadox470@gmail.com
 
-![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
-https://url.kr/4gsgc9
+> ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) : https://url.kr/4gsgc9
+
 
   <!--
   💡
