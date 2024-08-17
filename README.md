@@ -1,7 +1,11 @@
 <!--
 **dev-0eum/dev-0eum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-## Hello! Security Data Engineer JunYeob's Github😎
+# Hello! Security Data Engineer JunYeob's Github😎
+### 💾 Brief of me
+- Incheon Posco High School (2018.03 ~ 2021.02)
+- Computer Science Engineering, ChungAng Univ. (2022.03 ~ )
+- Network Security, Korea Military Academy (2024.06 ~ 2025.12)
 
 
 ## 👨‍💻 Tech
@@ -13,9 +17,17 @@
 ![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 #### DataBase
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🏅 Prize
+- (2023.12) ICC Core TON, LINC 3.0 in CAU [Grand prize / 중앙대학교 총장상(대상)]
+- 
+
+### 📜 Certificate
+- SQL Developer, Korea DATA
+- TOEIC Speaking IH 150
+
 ### Project
 
-### Prize
 
 
 
