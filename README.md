@@ -4,8 +4,9 @@ https://velog.io/@oka1313/Github-%EA%B9%83%ED%97%88%EB%B8%8C-%ED%94%84%EB%A1%9C%
 https://velog.io/@noyohanx/GIT-%ED%94%84%EB%A1%9C%ED%95%84-%ED%99%94%EB%A9%B4-%EA%BE%B8%EB%AF%B8%EA%B8%B0
 -->
 # Hello! Security Data Engineer JunYeob's Github😎
-### 💾 Brief of me
+![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) lifeparadox470@gmail.com
 ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) https://url.kr/4gsgc9
+### 💾 Brief of me
 - (2018.03 ~ 2021.02) Incheon Posco High School 
 - (2022.03 ~ ) Computer Science Engineering, ChungAng Univ. 
 - (2022.03 ~ 2023.12) Representative & Student Council of Computer Science Engineering, ChungAng Univ.
