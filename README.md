@@ -3,9 +3,9 @@
 -->
 # Hello! Security Data Engineer JunYeob's Github😎
 ### 💾 Brief of me
-- Incheon Posco High School (2018.03 ~ 2021.02)
-- Computer Science Engineering, ChungAng Univ. (2022.03 ~ )
-- Network Security, Korea Military Academy (2024.06 ~ 2025.12)
+- (2018.03 ~ 2021.02) Incheon Posco High School 
+- (2022.03 ~ ) Computer Science Engineering, ChungAng Univ. 
+- (2024.06 ~ 2025.12) Network Security, Korea Military Academy 
 
 
 ## 👨‍💻 Tech
@@ -23,8 +23,8 @@
 - 
 
 ### 📜 Certificate
-- SQL Developer, Korea DATA
-- TOEIC Speaking IH 150
+- (2023.08) SQL Developer, Korea DATA
+- (2023.08) TOEIC Speaking IH 150
 
 ### Project
 
@@ -38,11 +38,14 @@
   ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
   ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
   ![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+  <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
 
