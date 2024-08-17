@@ -4,12 +4,6 @@ https://velog.io/@oka1313/Github-%EA%B9%83%ED%97%88%EB%B8%8C-%ED%94%84%EB%A1%9C%
 https://velog.io/@noyohanx/GIT-%ED%94%84%EB%A1%9C%ED%95%84-%ED%99%94%EB%A9%B4-%EA%BE%B8%EB%AF%B8%EA%B8%B0
 -->
 # Hello! Security Data Engineer JunYeob's Github😎
-### 💡 Contact
-![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
-lifeparadox470@gmail.com
-
-![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
-https://url.kr/4gsgc9
 ### 💾 Brief of me
 - (2018.03 ~ 2021.02) Incheon Posco High School 
 - (2022.03 ~ ) Computer Science Engineering, ChungAng Univ. 
@@ -50,12 +44,13 @@ https://url.kr/4gsgc9
 
 
 - 🔭 I’m currently working on ...
-  Network Security in KMA(Korea Military Academy)
+  Network Security Operation & Mangement in KMA(Korea Military Academy)
   - NAC
   - PMS Server
   - DRM System
-  - UTM / FireWall
+  - UTM & F/W 
   - Virus Vaccine Program
+  - WPA2 Enterprise
   
 - 🌱 I’m currently planning to learn ...
   
@@ -66,13 +61,18 @@ https://url.kr/4gsgc9
   ![](https://img.shields.io/badge/Airflow-F3F3F3?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
   ![](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+- 📫 How to contact me: ...
+![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
+lifeparadox470@gmail.com
 
+![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
+https://url.kr/4gsgc9
 
   <!--
+  💡
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
