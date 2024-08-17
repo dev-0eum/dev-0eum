@@ -5,6 +5,7 @@ https://velog.io/@noyohanx/GIT-%ED%94%84%EB%A1%9C%ED%95%84-%ED%99%94%EB%A9%B4-%E
 -->
 # Hello! Security Data Engineer JunYeob's Github😎
 ### 💾 Brief of me
+![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![](https://url.kr/4gsgc9)
 - (2018.03 ~ 2021.02) Incheon Posco High School 
 - (2022.03 ~ ) Computer Science Engineering, ChungAng Univ. 
 - (2022.03 ~ 2023.12) Representative & Student Council of Computer Science Engineering, ChungAng Univ.
