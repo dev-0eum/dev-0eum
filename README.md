@@ -5,12 +5,12 @@ https://velog.io/@noyohanx/GIT-%ED%94%84%EB%A1%9C%ED%95%84-%ED%99%94%EB%A9%B4-%E
 -->
 # Hello! Security Data Engineer JunYeob's Github😎
 ### 💾 Brief of me
-(2018.03 ~ 2021.02) Incheon Posco High School 
-(2022.03 ~ ) Computer Science Engineering, ChungAng Univ. 
-(2022.03 ~ 2023.12) Representative & Student Council of Computer Science Engineering, ChungAng Univ.
-(2022.07 ~ ) College Mentor of Future Dream Center(미래진로센터)
-(2023.01 ~ 02) Instructor of Digital Newbie Camp (sponsored by KAIST)
-(2024.06 ~ 2025.12) Network Security, Korea Military Academy 
+- (2018.03 ~ 2021.02) Incheon Posco High School 
+- (2022.03 ~ ) Computer Science Engineering, ChungAng Univ. 
+- (2022.03 ~ 2023.12) Representative & Student Council of Computer Science Engineering, ChungAng Univ.
+- (2022.07 ~ ) College Mentor of Future Dream Center(미래진로센터)
+- (2023.01 ~ 02) Instructor of Digital Newbie Camp (sponsored by KAIST)
+- (2024.06 ~ 2025.12) Network Security, Korea Military Academy 
 
 
 ## 👨‍💻 Tech
@@ -25,7 +25,7 @@ https://velog.io/@noyohanx/GIT-%ED%94%84%EB%A1%9C%ED%95%84-%ED%99%94%EB%A9%B4-%E
 
 ### 🏅 Prize
 - (2023.12) ICC Core TON, LINC 3.0 in CAU [Grand prize / 중앙대학교 총장상(대상)]
-- (2023.08) CCSSAA(CAU CSE alumini Association) 
+- (2023.08) CCSSAA(CAU CSE alumini Association) 3rd Prize
 
 ### 📜 Certificate
 - (2023.08) SQL Developer, Korea DATA
@@ -39,13 +39,17 @@ https://velog.io/@noyohanx/GIT-%ED%94%84%EB%A1%9C%ED%95%84-%ED%99%94%EB%A9%B4-%E
 - 🔭 I’m currently working on ...
   Network Security in KMA(Korea Military Academy)
   - NAC
-  - 
+  - PMS Server
+  - DRM System
+  - UTM / FireWall
+  - Virus Vaccine Program
 - 🌱 I’m currently learning ...
   
   ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
   ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
   ![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+  ![](https://img.shields.io/badge/Airflow-0F0F00?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 
   <!--
 - 👯 I’m looking to collaborate on ...
