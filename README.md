@@ -49,7 +49,7 @@ https://velog.io/@noyohanx/GIT-%ED%94%84%EB%A1%9C%ED%95%84-%ED%99%94%EB%A9%B4-%E
   ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
   ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
   ![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-  ![](https://img.shields.io/badge/Airflow-FFFFFF?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+  ![](https://img.shields.io/badge/Airflow-F3F3F3?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 
   <!--
 - 👯 I’m looking to collaborate on ...
