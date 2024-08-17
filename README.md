@@ -80,9 +80,9 @@ https://velog.io/@noyohanx/GIT-%ED%94%84%EB%A1%9C%ED%95%84-%ED%99%94%EB%A9%B4-%E
 
 > ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) : https://url.kr/4gsgc9
 
+<!-- 여기서 테마 변경 문서: https://github.com/anuraghazra/github-readme-stats -->
 !['s GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-0eum&show_icons=true&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-0eum&theme=pink)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-0eum&theme=blue-pink)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-0eum&theme=radical)
 
 
   <!--
