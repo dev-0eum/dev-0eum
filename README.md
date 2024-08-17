@@ -5,9 +5,11 @@ https://velog.io/@noyohanx/GIT-%ED%94%84%EB%A1%9C%ED%95%84-%ED%99%94%EB%A9%B4-%E
 -->
 # Hello! Security Data Engineer JunYeob's Github😎
 ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
+
 lifeparadox470@gmail.com
 
 ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
+
 https://url.kr/4gsgc9
 ### 💾 Brief of me
 - (2018.03 ~ 2021.02) Incheon Posco High School 
